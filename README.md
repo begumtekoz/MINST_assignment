@@ -1,1 +1,1 @@
-# MINST_assignment
+# MINST_PyTorch
